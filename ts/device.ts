@@ -3,7 +3,7 @@
  * @Description ts报错处理
  */
 
- interface PropAny{
+ interface PropAny {
   [propName: string]: any;
 }
 
